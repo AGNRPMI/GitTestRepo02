@@ -1,5 +1,5 @@
 # GitTestRepo01
-sdfsdfsf
+CONFLICT 2
 sdfsdf
 sdfsdf
 
