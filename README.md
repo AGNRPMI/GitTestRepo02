@@ -2,8 +2,12 @@
 CONFLICT 2
 sdfsdf
 sdfsdf
+<<<<<<< HEAD
 Conflict 3 / 5
 Conflict 3
+=======
+
+>>>>>>> parent of f1c600b (sdfsdf)
 CONFLICT
 
 
