@@ -1,0 +1,74 @@
+[33mcommit 9187ad8204e081c460cd750c5d9348ca2781fcf8[m[33m ([m[1;36mHEAD -> [m[1;32mseminar2[m[33m, [m[1;31morigin/first[m[33m, [m[1;32mfirst[m[33m)[m
+Merge: f1c600b 4f03631
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 12:46:28 2023 +0400
+
+    sdfd222
+
+[33mcommit f1c600bbe9371a4c5134388fca372bcaaa66d7a1[m
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 12:44:03 2023 +0400
+
+    sdfsdf
+
+[33mcommit 4f036319228db1c2b7d2440384826b462cea689e[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 12:36:08 2023 +0400
+
+    Update README.md
+
+[33mcommit 9e24784d0c5d32fdd6e02e34e82f3bcd86636af3[m
+Merge: 0d9cee4 4f2bd08
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 12:29:26 2023 +0400
+
+    Merge branch 'first' of https://github.com/AGNRPMI/GitTestRepo02 into first
+
+[33mcommit 0d9cee4f192005b66a92abef3d707df4ba69f708[m
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 12:27:31 2023 +0400
+
+    add conflict
+
+[33mcommit 4f2bd08fa962d5254dd28355a0cfcddabb7f7f76[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 12:18:49 2023 +0400
+
+    Update README.md
+
+[33mcommit 5dc892258e04775a7270d9ee4227846d434521d8[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 947723e f98ea92
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 12:14:03 2023 +0400
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 947723ea4ab46ade8de96b1942b21d3675098b91[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 11:48:11 2023 +0400
+
+    Create test.md
+
+[33mcommit f98ea923aacaa573ba291aaf94da4cfb6533f3d8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 11:47:18 2023 +0400
+
+    Update README.md
+
+[33mcommit 39fcdeeebde200d7e53309bff203ad2149f7d19a[m
+Author: AGNRPMI <pmi.petrov@yandex.ru>
+Date:   Tue Dec 5 11:30:23 2023 +0400
+
+    change line
+
+[33mcommit b4e63646d2872d0343dc3e49dcff97c9ed2fe535[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 11:06:04 2023 +0400
+
+    Update README.md
+
+[33mcommit 475269ce2762def383be309494411734eed7234a[m
+Author: AGNRPMI <135428839+AGNRPMI@users.noreply.github.com>
+Date:   Tue Dec 5 11:05:49 2023 +0400
+
+    Initial commit
