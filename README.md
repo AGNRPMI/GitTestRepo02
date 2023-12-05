@@ -3,7 +3,7 @@ CONFLICT 2
 sdfsdf
 sdfsdf
 
-sssssssssssssssssqqqqqqqqqqqqqqqqqq
+CONFLICT
 
 
 adasdqqwdqwdqwd
